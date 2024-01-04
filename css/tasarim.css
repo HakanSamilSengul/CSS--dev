@@ -1,0 +1,22 @@
+
+.background {
+
+    background-color: burlywood;
+}
+
+h1 {
+
+    color: darkred;
+    font-size:54px;
+}
+
+h2 {
+    color: crimson;
+    font-size: 48px;
+}
+
+
+p {
+    font-size: 24px;
+    color: gray;
+}
